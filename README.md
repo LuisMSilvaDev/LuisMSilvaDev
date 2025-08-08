@@ -8,6 +8,7 @@
 
 <h2 id="-about-me"><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me</h2>
 <p><picture> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"></picture></p>
+
 ```yaml
 name: Luis Silva
 located_in: Portugal
