@@ -11,12 +11,6 @@
 <br>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,cs,dotnet,express,git,jenkins,jquery,mongodb,nestjs,nodejs,postgres,postman,py,ts&theme=dark&perline=14" />
-  </a>
-</p>
-
-<p align="center">
 <a href="">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
